@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(0, 128, 0, 0.653);
+    border-bottom: 4px solid rgba(0, 128, 0, 0.653);
+    margin-top: 0px;
+    padding: 0;
+}
+
+h1{
+    font-size: 40px;
+    font-family: Verdana;
+    color: aliceblue;
+}
+
+li{
+    display: inline-block;
+    color: aliceblue;
+    font-family: Verdana;
+    margin: 15px;
+    font-size: 30px;
+}
