@@ -1,8 +1,17 @@
-# React + Vite
+# ECOTIENDA
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es un proyecto que utiiza React JS para crear un single page application. Permite desplegar todos los productos de la tienda y también clasificarlos por categorías. El usuario selecciona sus productos los cuales se agregan a un carrito. Una vez que el usuario finaliza la compra se muestra un resumen de la misma y los usuarios ingresan sus datos para concluir la compra. Finalmente el usuario recibe un número de orden de su pedido.
 
-Currently, two official plugins are available:
+# Tecnologías usadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Vite
+- React
+- React Router DOM
+- Firebase
+
+# Funcionalidades
+
+- Ver productos por categoría
+- Cargar carrito de compras
+- Realizar una orden de compra 
+- Ingresar datos personales para concluir el pedido.
